@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: 'This resource contains Lab Data for Teams 1-4. (The ZIP file contains:
+  63 .asc files, and 44 .i32 files.)'
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/6a53eb0eaa874c008c7b570460789e84_data.zip
+file_type: application/zip
+resourcetype: Other
+title: data.zip
+uid: 6a53eb0e-aa87-4c00-8c7b-570460789e84
+---
